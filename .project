@@ -8,6 +8,7 @@
     <project>com.idega.core</project>
     <project>com.idega.builder</project>
     <project>com.idega.block.media</project>
+    <project>com.idega.block.web2.0</project>
   </projects>
   <buildSpec>
     <buildCommand>
